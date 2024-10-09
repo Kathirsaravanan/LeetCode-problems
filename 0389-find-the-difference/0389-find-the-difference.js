@@ -8,10 +8,9 @@ var findTheDifference = function(s, t) {
     arr.fill(0);
     for(let i=0;i<t.length;i++){
         arr[t.charCodeAt(i)-97]++
-    }
-    for(let i=0;i<s.length;i++){
         arr[s.charCodeAt(i)-97]--
     }
+ 
     for(let i=0;i<arr.length;i++){
         if(arr[i]>0){
             return String.fromCodePoint(97+i);
