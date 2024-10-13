@@ -14,6 +14,7 @@ To store the Leetcode problems I solved
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0389-find-the-difference) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2427-first-letter-to-appear-twice](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -32,5 +33,6 @@ To store the Leetcode problems I solved
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2427-first-letter-to-appear-twice](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
