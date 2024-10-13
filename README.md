@@ -8,15 +8,18 @@ To store the Leetcode problems I solved
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0389-find-the-difference) |
+| [2427-first-letter-to-appear-twice](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0389-find-the-difference) |
+| [2427-first-letter-to-appear-twice](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0389-find-the-difference) |
+| [2427-first-letter-to-appear-twice](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -29,4 +32,5 @@ To store the Leetcode problems I solved
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
