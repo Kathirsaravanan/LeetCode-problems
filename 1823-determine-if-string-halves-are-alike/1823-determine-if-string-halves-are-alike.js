@@ -7,14 +7,14 @@ var halvesAreAlike = function(s) {
     let j= s.length/2;
     let cnt=0;
     for(let i=0;i<j;i++){
-        if(arr.includes(s[i])){
-            cnt++
-        }
+       if(s[i]=== 'a' ||s[i]=== 'e' ||s[i]=== 'i' ||s[i]=== 'o' ||s[i]=== 'u' ||s[i]=== 'A' ||s[i]=== 'E' ||s[i]=== 'I' ||s[i]=== 'O' ||s[i]=== 'U' ){
+        cnt++;
+    }
     }
     for(let i=j;i<s.length;i++){
-        if(arr.includes(s[i])){
-            cnt--
-        }
+        if(s[i]=== 'a' ||s[i]=== 'e' ||s[i]=== 'i' ||s[i]=== 'o' ||s[i]=== 'u' ||s[i]=== 'A' ||s[i]=== 'E' ||s[i]=== 'I' ||s[i]=== 'O' ||s[i]=== 'U' ){
+        cnt--;
+    }
     }
     if(cnt===0){
         return true
