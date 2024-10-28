@@ -26,6 +26,7 @@ To store the Leetcode problems I solved
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -40,4 +41,12 @@ To store the Leetcode problems I solved
 |  |
 | ------- |
 | [1666-make-the-string-great](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/1666-make-the-string-great) |
+## Array
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
