@@ -6,12 +6,14 @@ To store the Leetcode problems I solved
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0389-find-the-difference) |
 | [0874-backspace-string-compare](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0874-backspace-string-compare) |
@@ -37,6 +39,7 @@ To store the Leetcode problems I solved
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2427-first-letter-to-appear-twice](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/2427-first-letter-to-appear-twice) |
