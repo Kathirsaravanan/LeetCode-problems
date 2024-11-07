@@ -32,6 +32,7 @@ To store the Leetcode problems I solved
 | ------- |
 | [0389-find-the-difference](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Queue
 |  |
 | ------- |
@@ -54,6 +55,7 @@ To store the Leetcode problems I solved
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Math
 |  |
 | ------- |
@@ -62,9 +64,14 @@ To store the Leetcode problems I solved
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0874-backspace-string-compare) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Simulation
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0874-backspace-string-compare) |
 | [2470-removing-stars-from-a-string](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/2470-removing-stars-from-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
