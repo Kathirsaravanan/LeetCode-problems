@@ -15,7 +15,7 @@ var canConstruct = function(ransomNote, magazine) {
     }
     for(let c of ransomNote){
         
-        if(!out[c] || out[c]<-1){
+        if(!out[c] || out[c]<=0){
             return false
         }
         out[c]--;
