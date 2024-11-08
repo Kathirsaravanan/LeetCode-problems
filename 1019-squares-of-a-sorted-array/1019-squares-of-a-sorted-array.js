@@ -8,13 +8,13 @@ var sortedSquares = function(nums) {
     while(i<=j){
         let k=0;
         if(Math.abs(nums[i])<nums[j]){
-            k=nums[j]*nums[j];
+            out.unshift(nums[j]*nums[j]);
             j--
         }else{
-            k= nums[i]*nums[i]
+            out.unshift(nums[i]*nums[i]);
             i++
         }
-        out.unshift(k);
+        
     }
     return out;
 };
