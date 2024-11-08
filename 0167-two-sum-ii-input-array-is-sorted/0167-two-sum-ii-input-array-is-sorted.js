@@ -15,4 +15,5 @@ var twoSum = function(nums, target) {
         map.set(difference,i);
         i++;
     }
+    return [];
 };
