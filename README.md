@@ -36,6 +36,7 @@ To store the Leetcode problems I solved
 | [0389-find-the-difference](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Queue
@@ -63,6 +64,7 @@ To store the Leetcode problems I solved
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
@@ -76,6 +78,7 @@ To store the Leetcode problems I solved
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0874-backspace-string-compare](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0874-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Simulation
 |  |
