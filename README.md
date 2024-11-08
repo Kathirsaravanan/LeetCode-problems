@@ -6,6 +6,7 @@ To store the Leetcode problems I solved
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0389-find-the-difference) |
@@ -56,6 +57,7 @@ To store the Leetcode problems I solved
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0001-two-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0917-boats-to-save-people) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
