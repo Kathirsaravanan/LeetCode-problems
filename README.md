@@ -62,6 +62,7 @@ To store the Leetcode problems I solved
 | ------- |
 | [0001-two-sum](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -76,6 +77,7 @@ To store the Leetcode problems I solved
 | ------- |
 | [0125-valid-palindrome](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0283-move-zeroes) |
 | [0874-backspace-string-compare](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0874-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
