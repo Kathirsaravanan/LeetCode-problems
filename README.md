@@ -8,6 +8,7 @@ To store the Leetcode problems I solved
 | ------- |
 | [0001-two-sum](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0389-find-the-difference) |
@@ -36,6 +37,7 @@ To store the Leetcode problems I solved
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0917-boats-to-save-people) |
@@ -49,6 +51,7 @@ To store the Leetcode problems I solved
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -66,6 +69,7 @@ To store the Leetcode problems I solved
 | [0001-two-sum](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0917-boats-to-save-people) |
