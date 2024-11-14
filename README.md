@@ -84,6 +84,7 @@ To store the Leetcode problems I solved
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [2507-number-of-common-factors](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/2507-number-of-common-factors) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,4 +120,12 @@ To store the Leetcode problems I solved
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
