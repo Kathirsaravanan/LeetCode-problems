@@ -3,17 +3,27 @@
  * @return {boolean}
  */
 var isPalindrome = function(s) {
-    s=  s.toLowerCase().replace(/[^a-z0-9]/gi,'');
-    let i=0;
-    let j=s.length-1;
-    if(s.length<=1)return true;
-    while(i<=j){
-        if(s[i]!==s[j]){
-            return false
+    if(s.length<1){
+        return true
+    }
+    let out='';
+    for(let i=0;i<s.length;i++){
+        let asc = s.charCodeAt(i);
+        if(asc>64 && asc< 91){
+            asc+=32
         }
-            i++;
-            j--;
+        if(asc>96 && asc<123 || asc>47 && asc<58){
+            out+=String.fromCodePoint(asc);
+        }
         
     }
-    return true;
+    
+    let j=out.length-1;
+    for(let i=0;i<out.length;i++){
+        if(out[i]!== out[j]){
+            return false
+        }
+        j--;
+    }
+    return true
 };
