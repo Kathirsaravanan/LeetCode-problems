@@ -79,6 +79,7 @@ To store the Leetcode problems I solved
 | [0229-majority-element-ii](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0792-binary-search](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -118,6 +119,7 @@ To store the Leetcode problems I solved
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0792-binary-search) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
