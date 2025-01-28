@@ -74,6 +74,7 @@ To store the Leetcode problems I solved
 | [0001-two-sum](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0217-contains-duplicate) |
@@ -120,6 +121,7 @@ To store the Leetcode problems I solved
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/Kathirsaravanan/LeetCode-problems/tree/master/0792-binary-search) |
 ## Heap (Priority Queue)
